@@ -1,0 +1,26 @@
+_repo: El-imperio-jesuitico_64668
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lugones, Leopoldo
+    aliases:
+    - Arguello, Leopoldo Lugones
+    - Argüello, Leopoldo Lugones
+    birthdate: 1874
+    deathdate: 1938
+    gutenberg_agent_id: '48853'
+    url: http://www.gutenberg.org/2009/agents/48853
+    wikipedia: https://es.wikipedia.org/wiki/Leopoldo_Lugones
+description: ''
+gutenberg_issued: '2021-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64668'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: El imperio jesuítico
+url: http://www.gutenberg.org/ebooks/64668
